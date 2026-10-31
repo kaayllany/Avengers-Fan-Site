@@ -65,6 +65,9 @@ O projeto foi desenvolvido em grupo na graduação em **Análise e Desenvolvimen
 
 Não precisa de servidor nem de instalação.
 
+### *📌 Aviso*
+
+Este é um **projeto de fã, sem fins lucrativos**, feito para fins educacionais. Marvel, Vingadores e todos os personagens citados são marcas e propriedades da Marvel e da Disney. Este site não é afiliado nem endossado por elas.
 
 
 ##  Autoria
@@ -79,9 +82,7 @@ Projeto desenvolvido em grupo por **Kaylany** e colegas, na graduação em **An�
 
 </div>
 
-## 📌 Aviso
 
-Este é um **projeto de fã, sem fins lucrativos**, feito para fins educacionais. Marvel, Vingadores e todos os personagens citados são marcas e propriedades da Marvel e da Disney. Este site não é afiliado nem endossado por elas.
 
 ---
 
