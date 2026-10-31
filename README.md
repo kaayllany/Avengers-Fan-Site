@@ -77,7 +77,7 @@ Projeto desenvolvido em grupo por **Kaylany** e colegas, na graduação em **An�
 
 </div>
 
-## ⚖️ Aviso
+## 📌 Aviso
 
 Este é um **projeto de fã, sem fins lucrativos**, feito para fins educacionais. Marvel, Vingadores e todos os personagens citados são marcas e propriedades da Marvel e da Disney. Este site não é afiliado nem endossado por elas.
 
