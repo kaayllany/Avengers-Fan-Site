@@ -2,15 +2,15 @@
 
 # 🕷️ Avengers Fan Hub
 
-**O multiverso é real.**
+**O multiverso é real**
 
 Site de fãs do universo cinematográfico da Marvel (MCU), com história dos Vingadores, curiosidades, heróis, vilões, linha do tempo dos filmes, quiz e chat.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Responsivo](https://img.shields.io/badge/layout-responsivo-success)
-![Projeto de fã](https://img.shields.io/badge/projeto-de%20fã-red)
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) &nbsp; ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) &nbsp; ![Responsivo](https://img.shields.io/badge/layout-responsivo-success) &nbsp; ![Projeto de fã](https://img.shields.io/badge/projeto-de%20fã-red)
+
+</div>
 
 <img width="800" height="300" alt="1790707364771" src="https://github.com/user-attachments/assets/17b85ded-c51d-469e-ad4a-7a271da51e56" />
 
@@ -67,7 +67,7 @@ Não precisa de servidor nem de instalação.
 
 
 
-## 👥 Autoria
+##  Autoria
 
 Projeto desenvolvido em grupo por **Kaylany** e colegas, na graduação em **Análise e Desenvolvimento de Sistemas (UNICID)**.
 
