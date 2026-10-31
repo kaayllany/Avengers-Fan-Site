@@ -22,7 +22,7 @@ Site de fãs do universo cinematográfico da Marvel (MCU), com história dos Vin
 
 **Avengers Fan Hub** é um site feito por fã, para fãs, sobre o universo cinematográfico da Marvel. Ele reúne em uma única página a origem dos Vingadores nos quadrinhos e nos cinemas, curiosidades, perfis de heróis e vilões, uma linha do tempo dos filmes e partes interativas, como quiz e chat.
 
-O projeto foi desenvolvido na graduação em **Análise e Desenvolvimento de Sistemas (UNICID)** para praticar construção de páginas web, navegação entre seções e layout responsivo.
+O projeto foi desenvolvido em grupo na graduação em **Análise e Desenvolvimento de Sistemas (UNICID)** para praticar construção de páginas web, navegação entre seções e layout responsivo.
 
 ##  Objetivo
 
