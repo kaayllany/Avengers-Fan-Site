@@ -69,11 +69,13 @@ Não precisa de servidor nem de instalação.
 
 ##  Autoria
 
-Projeto desenvolvido em grupo por **Kaylany** e colegas, na graduação em **Análise e Desenvolvimento de Sistemas (UNICID)**.
-
 <div align="center">
 
+Projeto desenvolvido em grupo por **Kaylany** e colegas, na graduação em **Análise e Desenvolvimento de Sistemas (UNICID)**.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaylany-thayna-b82931199) &nbsp;&nbsp; [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaayllany) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaylanythayna@hotmail.com)
+
+</div>
 
 </div>
 
